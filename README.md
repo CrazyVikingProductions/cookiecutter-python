@@ -1,2 +1,2 @@
-# cookiecutter-basicpythonproject
-A cookiecutter template for basic Python projects.
+# cookiecutter-pythonproject
+A cookiecutter template for Python projects.

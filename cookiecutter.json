@@ -1,10 +1,10 @@
 {
-    "project_name": "Basic Python Project",
-    "module_name": "basicpythonproject",
-    "author_name": "Susie Softwaredeveloper",
-    "author_email": "susie@example.com",
-    "github_username": "susieexample",
+    "project_name": "Python Project",
+    "module_name": "pythonproject",
+    "author_name": "Michael Swenson",
+    "author_email": "mikswenson@gmail.com",
+    "github_username": "CrazyVikingProductions",
     "project_version": "0.1.0",
     "project_short_description": "A basic Python project.",
-    "coc_contact_info": "susie@example.com"
+    "coc_contact_info": "mikswenson@gmail.com"
 }
